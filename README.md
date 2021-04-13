@@ -27,3 +27,7 @@ Link to dataset: https://www.kaggle.com/jmolitoris/adoptable-dogs
 ## Link to Tableau Online Dashboard
 
 You can view my dashboard here: https://us-west-2b.online.tableau.com/t/data301/views/Solo_102/ProjectIntroduction?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
+## Link to screencast presentation
+
+View my presentation here: https://youtu.be/GqPsi4Ok3i8
